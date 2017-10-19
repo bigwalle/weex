@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\weex\cjzapp1\platforms\android\app\libs\alipaySdk-20170725.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c36921ced2693fec6cb2c6161eedd295222daaa">
+        <dex dex="C:\weex\cjzapp1\platforms\android\app\build\intermediates\pre-dexed\debug\alipaySdk-20170725_d910f43035948fefaaf8717001266298859286a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\weex\cjzapp1\platforms\android\sdk\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1c7fb5f701ce0736b068b7183651aabeccba22e">
+        <dex dex="C:\weex\cjzapp1\platforms\android\app\build\intermediates\pre-dexed\debug\classes_ef33b83cdf7355b8b35d3a2504193499507e2ee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\weex\cjzapp1\platforms\android\appframework\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3225f9796e655b63ce5c0c0d5fa5f3ae71330ece">
+        <dex dex="C:\weex\cjzapp1\platforms\android\app\build\intermediates\pre-dexed\debug\classes_58956a1748dfe61c3558d0cedb589f9b3cccce50.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\weex\\cjzapp1\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\weex\\cjzapp1\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\weex\\cjzapp1\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_done_white.png",
+        "source": "C:\\weex\\cjzapp1\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_done_white.png"
+    }
+]
