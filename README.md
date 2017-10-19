@@ -1,5 +1,5 @@
-### weex apps samples
+### weex 下的Android 客户端    
+###已经依赖官方最新的weex sdk 0.16.0  
+###自己写了两个模块：支付宝、微信支付 ； 相机模块；
 
-*<font color="red">Please install the weex-toolkit before use hotrefresh*
-
-[Development Tools link](https://github.com/alibaba/weex_toolchain)
+###二哥是是是是steamsets是提示
